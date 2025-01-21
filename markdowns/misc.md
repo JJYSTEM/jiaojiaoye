@@ -38,7 +38,7 @@ I've worked through Stanford's Convolutional Neural Networks for Visual Recognit
 
 
 ### Unsorted resources
-
+* https://fracturedplane.notion.site/14a2148572768111a2fcf9b4f09e7e3c?v=14a2148572768182b64c000ccf9c191c
 * [How to formalize idea](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
 * [How to conduct a research project](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
 * [How to ML Paper](https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit#heading=h.16t67gkeu9dx) by [Jakob Foerster](https://www.jakobfoerster.com/), Associate Professor, May 2022
