@@ -16,10 +16,7 @@ layout: home
         </td>
         <td>
             <p>
-                Senior researcher<br>
-                <a href="https://en.zhejianglab.com/institutescenters/#ResearchUnits">Research Center for Intelligent Computing Software </a> <br>
-                <a href="https://en.zhejianglab.com/">Zhejiang Lab </a> <br>
-                <br>
+                Senior researcher
                 <b>Email</b>: <a href="mailto:jiaojiao.ye@tum.de">jiaojiao.ye@tum.de </a> <br>
                 <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a> <br>
             </p>
