@@ -17,7 +17,7 @@ layout: home
         <td>
             <p>
                 Senior researcher
-                <b>Email</b>: <a href="mailto:jiaojiao.ye@tum.de">jiaojiao.ye@tum.de </a> <br>
+                <b>Email</b>: <a href="mailto:jiaojiao.ye@tum.de">jiaojiao.ye@cs.ox.ac.uk </a> <br>
                 <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a> <br>
             </p>
         </td>
