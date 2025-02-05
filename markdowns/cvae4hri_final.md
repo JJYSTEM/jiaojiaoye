@@ -141,7 +141,7 @@ We illustrate our approach on a Franka Emika Panda robot arm interacting with hu
 </p>
 
 
-This work was completed by Jiaojiao Ye as the master thesis in 2019-2020. [The thesis is online](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/posts/paper/Sequence_model_for_hri.pdf).
+This work was completed by Jiaojiao Ye as the researcher student.
 
 
 
