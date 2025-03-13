@@ -37,10 +37,11 @@ My research wish is to build a robust, fully automated system 🤖 with learning
 
 My research interest is located in the following areas:
 
-* 3D/4D Generative Model
+* Generative Model
 * Embodied AI
 * World Model Learning
 
+<span style="color: red;">Feel free to contact me if you're interested in research collaboration!</span>
 
 ## 🆕 New
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
