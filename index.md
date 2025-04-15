@@ -47,10 +47,9 @@ My research interest is located in the following areas:
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
 * Paper accepted by [WACV 2025](https://wacv2025.thecvf.com/).
 * Won ELISA Mobility Grant.
-* Invited to ELLIS Doctoral Consortium.
 * Started Journey at Oxford.
 * Received 1st Scholarships for International Students(5%).
-* Started Intern at BCAI.
+* Started as an Intern at BCAI.
 
 
 ## Services
