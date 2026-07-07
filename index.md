@@ -55,7 +55,8 @@ See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/
 
 
 ## Projects
-* [Oneflow](https://github.com/Oneflow-Inc/oneflow): OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.  Since its release, PyPOTS has gained nearly 9400 stars GitHub stars, users from 200+ top universities & companies, demonstrating strong community adoption.  
+* [Embodied Intelligence](https://jjystem.github.io/jiaojiaoye/publication/cvae4hri_final/): Our team brings deep, multi-disciplinary mastery across the entire robotics spectrum—from high-precision single-arm systems and synchronized dual-arm configurations to advanced, AI-driven humanoids—empowering us to architect agile, resilient solutions for your most complex automation challenges.
+* [Oneflow](https://github.com/Oneflow-Inc/oneflow): OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.  Since its release, Oneflow has gained nearly 9400 stars GitHub stars, users from 200+ top universities & companies, demonstrating strong community adoption.  
 
 
 ## Hornor and Services
