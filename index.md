@@ -41,7 +41,7 @@ My research interest is located in the following areas:
 * Embodied AI
 * World Model Learning
 
-<span style="color: red;">Feel free to contact me if you're interested in research collaboration! I love collaborating with others! Don't hesitate! :)  </span>
+<span style="color: red;"> We are looking for experienced Intern with interest on World Model, VLA, Whole-Body Control with Force. Also, Feel free to contact me (jiaojiao.ye@cs.ox.ac.uk) if you're interested in research collaboration, I love collaborating with others! Don't hesitate! :)  </span>
 
 ## 🆕 New
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
