@@ -41,7 +41,7 @@ My research interest is located in the following areas:
 * Embodied AI
 * World Model Learning
 
-<span style="color: red;">Feel free to contact me if you're interested in research collaboration! I love collaborating with others! Don't hesitate! :) [CoolGuy] </span>
+<span style="color: red;">Feel free to contact me if you're interested in research collaboration! I love collaborating with others! Don't hesitate! :)  </span>
 
 ## 🆕 New
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
@@ -67,5 +67,6 @@ See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/
 * Attended China National Computer Congress by CCF [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
 * Tutorial on Inference Speedup [tutorial](https://zhuanlan.zhihu.com/p/659723053)
 * [Datawhale](https://datawhale.club/) Contributor
+  
 
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
