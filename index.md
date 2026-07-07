@@ -41,10 +41,12 @@ My research interest is located in the following areas:
 * Embodied AI
 * World Model Learning
 
-<span style="color: red;">Feel free to contact me if you're interested in research collaboration!</span>
+<span style="color: red;">Feel free to contact me if you're interested in research collaboration! I love collaborating with others! Don't hesitate! :) [CoolGuy] </span>
 
 ## 🆕 New
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
+* Paper accepted by [ICIC 2026]
+* Paper accepted by [ICASSP 2026]
 * Paper accepted by [WACV 2025](https://wacv2025.thecvf.com/).
 * Won ELISA Mobility Grant.
 * Started Journey at Oxford.
@@ -52,12 +54,17 @@ See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/
 * Started as an Intern at BCAI.
 
 
-## Services
+## Projects
+* [Oneflow](https://github.com/Oneflow-Inc/oneflow): OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.  Since its release, PyPOTS has gained nearly 9400 stars GitHub stars, users from 200+ top universities & companies, demonstrating strong community adoption.  
+
+
+## Hornor and Services
 
 * Invited presentation at [Oxbridge Conference](https://www.cs.ox.ac.uk/conferences/Oxbridge2024/) (Coorganized by Oxford and Cambridge).
 * Talk about [**Sora**](https://openai.com/sora) @ Datawhale, ModelScope  [[video]](https://www.bilibili.com/video/BV1KZ42127GP/?buvid=XU0E30D0C6006B7F1EE1425156434CFEC440F&from_spmid=search.search-result.0.0&is_story_h5=false&mid=fMtk7pz9LsVpSyGt0Mcizg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=979d0b97-1db7-4e39-a2e1-45118a669051&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708515033&unique_k=Poqnl0h&up_id=431850986) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2024Sora.jpg)
 * Talk about **Overview of Stable Diffusion** at Datawhale, Epubit, [Hugging Face](https://huggingface.co/)  [[video]](https://www.bilibili.com/video/BV1hg4y1R7i5/?spm_id_from=333.1007.0.0&vd_source=6a179693a78e3c2c5a1d0b69c2726668) [[poster]](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023SD_datawhale.PNG)
 * Attended China National Computer Congress by CCF [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
 * Tutorial on Inference Speedup [tutorial](https://zhuanlan.zhihu.com/p/659723053)
+* [Datawhale](https://datawhale.club/) Contributor
 
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
