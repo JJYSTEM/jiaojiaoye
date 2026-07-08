@@ -20,7 +20,7 @@ layout: home
                 Senior researcher |
                 Professional Committee @ Chinese Association for Artificial Intelligence (CAAI) <br>
                 <b>Email</b>: <a href="mailto:jiaojiao.ye@tum.de">jiaojiao.ye@cs.ox.ac.uk </a> <br>
-                <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile](https://www.cs.ox.ac.uk/people/jiaojiao.ye/) | [Wechat](https://github.com/JJYSTEM/jiaojiaoye/blob/main/assets/imgs/wechat.jpg) </a> <br>
+                <a href="https://www.cs.ox.ac.uk/people/jiaojiao.ye/">[OX Official] </a> | <a href="https://argmax.ai/team/jiaojiao-ye/">[Profile] </a> |  <a href="https://github.com/JJYSTEM/jiaojiaoye/blob/main/assets/imgs/wechat.jpg">[Wechat] </a> <br>
             </p>
         </td>
         </tr>
