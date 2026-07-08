@@ -41,22 +41,27 @@ My research interest is located in the following areas:
 * Embodied AI
 * World Model Learning
 
-<span style="color: red;"> We are looking for experienced Intern with interest on World Model, VLA, Whole-Body Control with Force. Also, Feel free to contact me (jiaojiao.ye@cs.ox.ac.uk) if you're interested in research collaboration, I love collaborating with others! Don't hesitate! :)  </span>
+<span> We are looking for <span style="color: red;">Intern</span> with interest on World Model, VLA, Whole-Body Control with Force. Also, I love collaborating with others on <span style="color: red;">research</span>! Feel free to contact me **(jiaojiao.ye@cs.ox.ac.uk with topic Intern/Collaboration + Name )** if you're interested in research collaboration, Don't hesitate! :)  </span>
 
-## 🆕 New
+## 🆕 News
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
 * Paper accepted by [ICIC 2026]
 * Paper accepted by [ICASSP 2026]
 * Paper accepted by [WACV 2025](https://wacv2025.thecvf.com/).
 * Won ELISA Mobility Grant.
 * Started Journey at Oxford.
+* Paper accepted by **RA-L**.
 * Received 1st Scholarships for International Students(5%).
 * Started as an Intern at BCAI.
 
+<p align="center">
+<img  width="50%" src="/jiaojiaoye/assets/robots/carry_box_highlight.gif" alt="animated" />
+<!-- ![](/assets/cvae4hri/mia_panda.gif ){:height="50%" width="50%" align="center"} -->
+</p>
 
 ## Projects
 * [Embodied Intelligence](https://jjystem.github.io/jiaojiaoye/publication/cvae4hri_final/): Our team brings deep, multi-disciplinary mastery across the entire robotics spectrum—from high-precision single-arm systems and synchronized dual-arm configurations to advanced, AI-driven humanoids—empowering us to architect agile, resilient solutions for your most complex automation challenges.
-* [Oneflow](https://github.com/Oneflow-Inc/oneflow): OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.  Since its release, Oneflow has gained nearly <span style="color: red;"> **9400 stars** </span>  GitHub stars, users from 200+ top universities & companies, demonstrating strong community adoption.  
+* [Oneflow](https://github.com/Oneflow-Inc/oneflow): OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.  Since its release, Oneflow has gained nearly <span style="color: red;"> **9400 stars** </span>  GitHub stars and over <span style="color: red;"> **1000** </span>, users from  <span style="color: red;"> **200+** </span> top universities & companies, demonstrating strong community adoption.  
 
 
 ## Hornor and Services
