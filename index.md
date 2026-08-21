@@ -42,7 +42,13 @@ My research interest is located in the following areas:
 * Embodied AI
 * World Model Learning
 
-<span> We are looking for <span style="color: red;">Intern</span> with interest on World Model, VLA, Whole-Body Control with Force. Also, I love collaborating with others on <span style="color: red;">research</span>! Feel free to contact me **(jiaojiao.ye@cs.ox.ac.uk with topic "Intern/Collaboration + Name" )** if you're interested in research collaboration, Don't hesitate! :)  </span>
+My Ph.D. work builds on three closely-related questions:
+1. How can we efficiently acquire massive, high-quality datasets for scaling foundation models? I explore a training-free generation pipeline that utilizes pre-trained diffusion-based generative models alongside VLMs to synthesize large-scale, well-annotated datasets without incurring additional training costs.
+2. How can we enhance a model's reasoning, planning, and memory capabilities to ensure robust performance in dynamic environments, particularly when addressing complex, long-horizon tasks?
+3. How can we optimize a robotic system's computational efficiency and reduce its processing burden to boost real-time execution in the physical world?
+   
+
+<span> We are looking for <span style="color: red;">Intern</span> with interest on World Model, VLA, Whole-Body Control with Force. Also, I love collaborating with others on <span style="color: red;">research</span>! Feel free to contact me **(jiaojiao.ye@cs.ox.ac.uk with topic "Intern/Collaboration + Name" )** if you're interested in research collaboration, Don't hesitate! 👏 </span>
 
 ## 🆕 News
 See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/jiaojiao-ye/)
@@ -51,13 +57,13 @@ See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/
 * Paper accepted by [WACV 2025](https://wacv2025.thecvf.com/).
 * Won ELISA Mobility Grant.
 * Started Journey at Oxford.
-* Paper accepted by **RA-L Conference**.
+* Paper accepted by [**RA-L Conference**].
 * Received 1st Scholarships for International Students(5%).
 * Started as an Intern at BCAI.
 
 <p align="center">
-<img  width="50%" src="/jiaojiaoye/assets/robots/carry_box_highlight.gif" alt="animated" />
-<!-- ![](/assets/cvae4hri/mia_panda.gif ){:height="30%" width="30%" align="center"} -->
+<img  width="30%" src="/jiaojiaoye/assets/robots/carry_box_highlight.gif" alt="animated" />
+<!-- ![](/jiaojiaoye/assets/robots/carry_box_highlight.gif){:height="30%" width="30%" align="center"} -->
 </p>
 
 ## Projects
@@ -73,6 +79,9 @@ See my personal news📰 on Linkedin: [@JiaojiaoYe](https://www.linkedin.com/in/
 * Attended China National Computer Congress by CCF [poster](https://github.com/JiaojiaoYe1994/jiaojiaoye/blob/main/assets/imgs/2023CNCC.JPG)
 * Tutorial on Inference Speedup [tutorial](https://zhuanlan.zhihu.com/p/659723053)
 * [Datawhale](https://datawhale.club/) Contributor. 
-  
+
+## Teaching 
+* Artificial Intelligence at the University of Oxford
+* Computer Vision at the University of Oxford
 
  <a href="https://clustrmaps.com/site/1br1t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&cl=ffffff" /></a>
