@@ -2,14 +2,14 @@
 layout: home
 title: Jiaojiao Ye
 description: "DPhil student at the University of Oxford, working on embodied AI, world models, and generative data generation for robot learning."
-# image: /jiaojiaoye/assets/imgs/og_cover.jpg   # 分享卡片封面：放一张机器人图后取消这行注释
+image: /jiaojiaoye/assets/imgs/logo_oxford.jpg   # 分享卡片封面：放一张机器人图后取消这行注释
 ---
 
 <table class="personal-info">
     <tbody>
         <tr>
         <td>
-            <img src="/jiaojiaoye/assets/imgs/profil.jpg" alt="Jiaojiao Ye" />
+            <img src="/jiaojiaoye/assets/imgs/profil2.jpg" alt="Jiaojiao Ye" />
         </td>
         <td>
             <p>
@@ -36,7 +36,7 @@ description: "DPhil student at the University of Oxford, working on embodied AI,
      若 "Senior researcher" 不是当前正式头衔，请不要写。 -->
 
 <p>I am currently a DPhil student at the University of Oxford, and I obtained my Bachelor's degree from
-<a href="https://www.zju.edu.cn/english/">Zhejiang University</a>. I was fortunate to work closely with Professor Sami Haddadin, Professor Patrick van der Smagt</p>
+<a href="https://www.zju.edu.cn/english/">Zhejiang University</a>. I was fortunate to work closely with Professor Sami Haddadin, Professor Patrick van der Smagt, did intern at <strong>Franka Emika, Bosch AI, and Mercedes-Benz</strong>, </p>
 
 <h2 id="-research-interest">🚀 Research interest</h2>
 
@@ -66,15 +66,15 @@ description: "DPhil student at the University of Oxford, working on embodied AI,
 <!-- 每条都要有 [YYYY-MM] 日期戳，并按时间倒序排列。
      "20??" 的地方请填真实年份/月份——没有日期的 news 读者判断不了时效。 -->
 <ul>
-  <li><span style="color: #999;">[2026]</span> Journal accepted at <strong>IJCV 2026</strong></li>
-  <li><span style="color: #999;">[2026]</span> Two papers accepted at <strong>ICIC 2026</strong> </li>
-  <li><span style="color: #999;">[2026]</span> Paper accepted at <strong>ICASSP 2026</strong></li>
-  <li><span style="color: #999;">[2025]</span> Paper accepted at <strong>WACV 2025</strong></li>
-  <li><span style="color: #999;">[2024]</span> Awarded the <strong>ELISA Mobility Grant</strong></li>
-  <li><span style="color: #999;">[2022]</span> Patent Granted</strong></li>
-  <li><span style="color: #999;">[2020]</span> Paper accepted at <strong>IEEE Robotics and Automation Letters (RA-L)</strong></li>
-  <li><span style="color: #999;">[2019]</span> Received the <strong>1st-Class Scholarship for International Students</strong></li>
-  <li><span style="color: #999;">[2018]</span> Started as an intern at <strong>Bosch AI + Mercedes-Benz</strong></li>
+  <li><span style="color: #999;">[2026]</span> Journal accepted at <strong>IJCV 2026</strong>!</li>
+  <li><span style="color: #999;">[2026]</span> Two papers accepted at <strong>ICIC 2026</strong>! </li>
+  <li><span style="color: #999;">[2026]</span> Paper accepted at <strong>ICASSP 2026</strong>!</li>
+  <li><span style="color: #999;">[2025]</span> Paper accepted at <strong>WACV 2025</strong>!</li>
+  <li><span style="color: #999;">[2024]</span> Awarded the <strong>ELISA Mobility Grant</strong>!</li>
+  <li><span style="color: #999;">[2022]</span> Patent Grante!</li>
+  <li><span style="color: #999;">[2020]</span> Paper accepted at <strong>IEEE Robotics and Automation Letters (RA-L)</strong>!</li>
+  <li><span style="color: #999;">[2019]</span> Received the <strong>1st-Class Scholarship for International Students</strong>!</li>
+  <li><span style="color: #999;">[2018]</span> Started as an intern at <strong>Bosch AI + Mercedes-Benz</strong>!</li>
 </ul>
 
 <!-- 说明：
@@ -110,7 +110,7 @@ description: "DPhil student at the University of Oxford, working on embodied AI,
       <td><b>DA-VLM: Data Factory with Minimal Effort Using VLMs</b><br>
           <b>Jiaojiao Ye</b>, Jia-Xing Zhong, Qian Xie, Yuzhou Zhou, Niki Trigoni, Andrew Markham<br>
           <em>ICASSP 2026</em></td>
-      <td><a href="https://ieeexplore.ieee.org/abstract/document/11460564/">[paper] <a href="https://jjystem.github.io/DiffusionSyn/">[page] <a href="https://jjystem.github.io/DiffusionSyn/">[code]</a> </td>
+      <td><a href="https://ieeexplore.ieee.org/abstract/document/11460564/">[paper]</a> <a href="https://jjystem.github.io/DiffusionSyn/">[page]</a> <a href="https://jjystem.github.io/DiffusionSyn/">[code]</a> </td>
     </tr>
     <tr>
       <td>2025</td>
@@ -120,17 +120,10 @@ description: "DPhil student at the University of Oxford, working on embodied AI,
       <td> <a href="https://ieeexplore.ieee.org/abstract/document/11460564/">[paper] [code]</td></a> 
     </tr>
     <tr>
-      <td>2025</td>
-      <td><b>TODO: 论文标题</b><br>
-          TODO: 全部作者<br>
-          <em>IEEE Robotics and Automation Letters (RA-L)</em></td>
-      <td>TODO: [paper] [code] [video]</td>
-    </tr>
-    <tr>
-      <td>TODO</td>
+      <td>20</td>
       <td><b>Conditional VAE for Human-Robot Interaction</b><br>
-          <b>Jiaojiao Ye, Sami Haddadin</b><br>
-      <td><a href="/jiaojiaoye/publication/cvae4hri_final/">[project]</a> [pdf] [code]</td>
+          <b>Jiaojiao Ye, Sami Haddadin</b><br></td>
+      <td><a href="/jiaojiaoye/publication/cvae4hri_final/">[project] [pdf] [code]</a></td>
     </tr>
   </tbody>
 </table>
@@ -177,8 +170,8 @@ description: "DPhil student at the University of Oxford, working on embodied AI,
 <h2 id="teaching">Teaching</h2>
 
 <ul>
-  <li>TA: Artificial Intelligence at the University of Oxford</li>
-  <li>Teaching Assistance: Computer Vision at the University of Oxford</li>
+  <li>Teaching Assistant: Artificial Intelligence at the University of Oxford</li>
+  <li>Teaching Assistant: Computer Vision at the University of Oxford</li>
 </ul>
 
 <p><a href="https://clustrmaps.com/site/1br1t" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=97nUU-FjSo3XTeI1STkdpKlUaW4UMyu7RVO1xutT1PA&amp;cl=ffffff" alt="Visitor map" /></a></p>
